@@ -8,6 +8,7 @@ enum FruitList{
     Apple,
     Banana,
     Kiwi,
+    Oranges,
 }
 let fruit:FruitList=FruitList.Apple
 let randomValue:unknown="This is unknown string";
